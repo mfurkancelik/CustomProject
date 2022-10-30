@@ -16,7 +16,6 @@ In this project, it is aimed to display the data in a custom view by handling th
 - Retrofit and RxJava
 
 ### 3. How to Run Project
--------------
 -	Clone this repository to your desktop.
 -	[Download Android Studio]( https://developer.android.com/studio)
 - [Add virtual device in android studio](https://developer.android.com/studio/run/managing-avds)
