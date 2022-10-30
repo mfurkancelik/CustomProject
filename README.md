@@ -19,7 +19,7 @@ In this project, it is aimed to display the data in a custom view by handling th
 
 -	Clone this repository to your desktop.
 -	[Download Android Studio]( https://developer.android.com/studio)
-- [Add virtual device in android studio] (https://developer.android.com/studio/run/managing-avds)
+- [Add virtual device in android studio](https://developer.android.com/studio/run/managing-avds)
 -	Clone repository.
 - 
 -	Run the Project.
